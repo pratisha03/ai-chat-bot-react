@@ -9,7 +9,7 @@ The chatbot provides real-time AI responses with a clean and responsive interfac
 - React.js
 - Tailwind CSS
 - Gemini API
-- JavaScript (ES6)
+
 
 ---
 
